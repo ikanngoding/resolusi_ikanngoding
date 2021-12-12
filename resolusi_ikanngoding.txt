@@ -1,5 +1,6 @@
 Resolusi Ikan Ngoding
-1. Meningkatkan kemampuan seputar dunia informatika
-2. Konsisten belajar
-3. Menambah teman belajar
-4. Ikut komunitas
+- Meningkatkan kemampuan seputar dunia informatika
+- Konsisten belajar
+- Menambah teman belajar
+- Ikut komunitas
+- Tetap semangat
