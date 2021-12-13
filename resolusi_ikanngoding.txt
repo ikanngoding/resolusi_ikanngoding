@@ -1,6 +1,8 @@
 Resolusi Ikan Ngoding
 - Meningkatkan kemampuan seputar dunia informatika
 - Konsisten belajar
+  - Web Programming
+  - Logical Programming
 - Menambah teman belajar
 - Ikut komunitas
 - Tetap semangat
